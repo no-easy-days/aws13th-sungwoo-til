@@ -29,3 +29,5 @@
 
 - **꾸준함**: 거창한 내용이 아니어도 좋습니다. 짧은 코드 조각이나 에러 해결 과정도 훌륭한 TIL입니다.
 - **링크 활용**: README에 목차를 잘 정리해두면 나만의 훌륭한 위키(Wiki)가 됩니다.
+
+TIL 노션 주소: https://www.notion.so/2025-12-24-TIL-2d396d232d608073a8e6ecaeea2240ca?source=copy_link
